@@ -6,7 +6,7 @@
 /*   By: yhliboch <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/04 11:44:05 by yhliboch          #+#    #+#             */
-/*   Updated: 2019/04/04 11:44:09 by yhliboch         ###   ########.fr       */
+/*   Updated: 2019/07/29 13:36:43 by yhliboch         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,8 @@
 # include "libft.h"
 # include <mlx.h>
 # include <math.h>
-# define WIDTH 1300
-# define HEIGHT 1300
+# define WIDTH 1000
+# define HEIGHT 1000
 # define KEY_LEFT 123
 # define KEY_RIGHT 124
 # define KEY_UP 126
