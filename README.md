@@ -4,7 +4,7 @@
 
 How to start:
 ```bash
-git clone https://github.com/ygliboch/Fdf.git && cd Fdf
+git clone https://github.com/ygliboch/Fdf.git && cd Fdf && make
 ./fdf test_maps/42.fdf
 ```
 You can run with any file from the test_maps folder (or create your own).
